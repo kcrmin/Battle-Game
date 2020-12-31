@@ -1,0 +1,30 @@
+User Guide
+Tutorial on how does game works
+1.  Run "Battle-Game" file
+2.  You have to choose either:
+(1) User VS User
+(2) User VS AI
+3.  You have to choose the number of units you want to play:
+(1) 1 VS 1
+(2) 2 VS 2
+(3) 3 VS 3
+4.  There are two teams:
+(1) Blue team
+(2) Red team
+5.  There are 3 class units:
+(1) Warrior
+(2) Tanker
+(3) Wizard
+6.  Warrior, Tanker, and Wizard each will have Attack point, Health Point, and Defence Point while only Wizard will have special ability such as (Heal, Poison, Cure and Freeze)
+7.  All units will have Experience Points(EXP) starting with zero and will change accordingly on how the game will be played.
+8.  EXP will be updated till level 3 and once the EXP reaches 50, the unit levels up
+9.  As per stated in number 4 you can enter a random name for the 2 teams
+10.  After you’ve entered the name for the unit it will ask you to choose the class
+11.  The name, class, points and level will be shown after you have set up the game for the bot team.
+12.  There will be turns for each team
+13.  Both teams will play the game accordingly to which target point they choose
+14.  Heal and Cure spells can work on a friendly unit, whereas Poison and Freeze will work on opponent’s units.
+15.  The poison spell will continue until the friendly wizard unit cures them
+16.  A frozen unit will lose a turn and in the following turn it will unfreeze it
+17.  The game will continue until one side from the team have no units alive
+18. You can find EventLog.txt in the same folder as the Battle-Game.py folder.
